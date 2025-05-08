@@ -29,7 +29,7 @@ You will need to change the class UInputDeviceTriggerResistanceProperty in the f
 
 # Mod Loader
 
-To load your blueprint mod, you will need a mod loader and for that you can use Simple Photo Mode that comes with a mod loader as a separate download.
+To load your blueprint mod, you will need a mod loader and for that you can use [Blueprint Mod Loader](https://www.nexusmods.com/oblivionremastered/mods/2610) (created by me) or Simple Mod Loader﻿ (created by KZekai).
 
 # Credits
 
